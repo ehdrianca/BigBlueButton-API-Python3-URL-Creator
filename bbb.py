@@ -7,6 +7,7 @@
 " Version: 0.1
 "
 " Copyright 2015 Success Office Systems, Regina, SK, Canada
+" License: Mozilla Public License, version 2.0
 " Author: Adrian Thompson
 "
 """
